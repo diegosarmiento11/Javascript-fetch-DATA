@@ -1,0 +1,18 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+input {
+  border: 1px solid black;
+  outline: none;  
+}
+.title{
+  font-size: 50px;
+  text-align: center;
+}
+.button {
+  border: none;
+  background-color: blue;
+  color: white;
+}
